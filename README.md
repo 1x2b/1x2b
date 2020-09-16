@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**1x2b/1x2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Profilime Hoş Geldin !
+# Hakkımda:
+İnternetten bulduğum kodlar ile kendimi geliştiriyorum.<br>
+Her bulduğum kodu kopyala yapıştır yapmam. O kodu incelerim, mantığını anlarım ve asla o kod üzerinden para kazanma amacı taşımam.<br>
+Genellikle discord botları üzerinde v11 sürümünde çalışıyorum.<br>
+Botum üzerinde eğlence komutlarını yapmayı seviyorum.<br>
+# İletişim:<br>
+Discord: １ｘ２ｂ#3480<br>
+Sunucu: [Katılmak için tıkla](https://discord.gg/z6FMRZA)<br>
+Discord Botum: [Eklemek için tıkla](https://discord.com/oauth2/authorize?client_id=750071910351634645&scope=bot&permissions=8)<br>
+İnternet sitem: [Ziyaret etmek için tıkla](https://www.wolframdiscordbot.glitch.me)
