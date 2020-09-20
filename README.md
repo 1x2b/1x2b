@@ -1,7 +1,7 @@
 # Profilime Hoş Geldin !
 # Hakkımda:
 İnternetten bulduğum kodlar ile kendimi geliştiriyorum.<br>
-Her bulduğum kodu kopyala yapıştır yapmam. O kodu incelerim, mantığını anlarım ve asla o kod üzerinden para kazanma amacı taşımam.<br>
+Her bulduğum kodu kopyala yapıştır yapmam. O kodu incelerim, mantığını anlarım ve **asla** o kod üzerinden para kazanma amacı taşımam.<br>
 Genellikle discord botları üzerinde v11 sürümünde çalışıyorum.<br>
 Botum üzerinde eğlence komutlarını yapmayı seviyorum.<br>
 # İletişim:<br>
