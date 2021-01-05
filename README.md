@@ -9,3 +9,4 @@ Discord: １ｘ２ｂ#3480<br>
 Sunucu: [Katılmak için tıkla](https://discord.gg/z6FMRZA)<br>
 Discord Botum: [Eklemek için tıkla](https://discord.com/oauth2/authorize?client_id=750071910351634645&scope=bot&permissions=8)<br>
 İnternet sitem: [Ziyaret etmek için tıkla](https://www.wolframdiscordbot.glitch.me)
+Nzk1OTU1MzI2NTc4MzI3NTgz.X_Q5KQ.qkMIKfvZYJ13pJKsZeZtA2ocapc
