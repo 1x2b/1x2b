@@ -5,7 +5,7 @@ Her bulduğum kodu kopyala yapıştır yapmam. O kodu incelerim, mantığını a
 Genellikle discord botları üzerinde v11 sürümünde çalışıyorum.<br>
 Botum üzerinde eğlence komutlarını yapmayı seviyorum.<br>
 # İletişim:<br>
-Discord: １ｘ２ｂ#3480<br>
+Discord: 1x2b#3480<br>
 Sunucu: [Katılmak için tıkla](https://discord.gg/z6FMRZA)<br>
 Discord Botum: [Eklemek için tıkla](https://discord.com/oauth2/authorize?client_id=750071910351634645&scope=bot&permissions=8)<br>
 İnternet sitem: [Ziyaret etmek için tıkla](https://1x2b.glitch.me/)
