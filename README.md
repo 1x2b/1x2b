@@ -2,4 +2,4 @@
 
 Discord: ３ｄ４ｑ#3480<br>
 Server: [Join](https://discord.gg/z6FMRZA)<br>
-Website: [Visit](https://1x2b.glitch.me/)
+Website: [Visit](https://3d4q.glitch.me/)
